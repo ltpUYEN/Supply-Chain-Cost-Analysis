@@ -33,7 +33,10 @@ The project involved several analytical steps reflected in the dashboard:
 
 ## Project Disclaimer
 
-This dashboard was also created as a study project, primarily for the purpose of learning Power BI and practicing analytical techniques in supply chain analysis. While it demonstrates analytical concepts, **reviewing it now highlights areas for improvement in styling, chart design, and layout, showcasing the evolution of my skills since its creation.**
+## Project Disclaimer
+
+**As part of my Power BI learning process, this dashboard was created in early 2024 as a study project using a fictitious dataset to practice analytical techniques in supply chain analysis. While it demonstrates analytical concepts, reviewing it now highlights areas for improvement in styling, chart design, and layout, showcasing the evolution of my skills since its creation.**
+
 <img width="929" alt="supply chain p1" src="https://github.com/user-attachments/assets/86a2c154-057d-45e4-b818-1fe787768f41" />
 <img width="920" alt="supply chain p2" src="https://github.com/user-attachments/assets/bd093689-8d3e-4e60-ae2e-0c228ae21cc3" />
 <img width="921" alt="supply chain p3" src="https://github.com/user-attachments/assets/a3f2ea32-3734-46be-8128-e234fa497012" />
